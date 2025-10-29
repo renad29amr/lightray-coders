@@ -1,0 +1,135 @@
+##injury :
+players_id 
+injury_id
+club_id
+days_out
+injury_severity
+injury_type
+
+##player_dim :(Done)
+plyer_id
+club_id
+gk_id
+player_no
+postion
+injury_id 
+
+##player_fact:(Done)
+player_id
+no._goals
+no._assests 
+pre_assest(belal's task)
+no_passes
+preferred_foot(right or left leg(youssef's task))
+minutes_played
+match_played
+no_dribble
+Xg(Expected goals)
+Xa(Expected Assets)
+yellow_cards
+red_cards
+shots_on_target
+no_interceptions
+Tackles_total
+tackles_won
+miss_pass
+
+## goal_keeper(Done)
+plyer_id
+gk_id
+club_id
+saves
+clean_sheet
+in_goal(Goals Conceded)
+yellow_card
+red_card
+no_matches
+
+##club: 
+club_id
+coach_id
+injury_id 
+club_name
+stadium_name
+clean_sheet
+popularity(loubna's task)
+strenght
+market_value
+points
+Rank
+in_goal(Goals Conceded)
+xA
+xG
+no_wins 
+no_lose
+no_draws
+matches_played???????????
+
+##match:(~)
+match_id
+match_score
+home_club_id????
+away_club_id????
+home_possession_pct
+away_possession_pct
+home_shots_on_target
+away_shots_on_target
+home_pass_completion_pct
+away_pass_completion_pct
+home_tackles_won
+away_tackles_won
+home_interceptions
+away_interceptions
+home_yellow_cards
+away_yellow_cards
+home_red_cards
+away_red_cards
+stadium_name(~)
+no_matches_played(between two clubs)
+match_result(~:don't know away or home it depends on joining between away and home )
+set_on_target
+man_of_the_match(name)
+no._of_attacks
+no._of_goals
+
+
+
+## coach:(Done)
+coach_id
+club_id
+salary(it depends)
+name
+age 
+nationality
+no_competition
+
+## premier legeuge
+seasons (we will make) 
+season_id
+no_clubs
+rank_1
+revenue 
+total spending
+name of rasing team
+
+
+
+## interface of dashboard
+seasons (dropdown box)
+table of premier legeuge
+no. of players
+spending
+revenue
+3 teams new
+3 teams old
+start of day's match
+end of day's match
+
+
+
+Notes:
+first we will work on last season(2024-2025)
+problems: search how to join between home and away in match table 
+	  join two fk with one pk(match table and club table)
+if match cancel - postpone(realtime)
+
