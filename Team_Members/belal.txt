@@ -1,1 +1,13 @@
-hhhh
+## We want a website that contains information about goalkeepers. This information can be summarised in several key characteristics, including club, number of Goals, number of clean sheets, number of goals scored, number of yellow cards, number of red cards, and number of matches played in all seasons. 
+ So I found a perfect website,  it has all we want, but it has a small problem, it is not organised, but  I think it is perfect.
+
+
+https://fbref.com/en/
+
+plz open it and let's discuss.
+
+
+
+https://www.fotmob.com/leagues/47/overview/premier-league
+
+It has a number of cards GK taked 
