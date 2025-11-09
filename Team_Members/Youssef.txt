@@ -1,1 +1,30 @@
-jj
+1.Football-Data.co.uk
+## easy website csv+static html
+points
+rank
+matches_played
+wins / losses / draws
+goals conceded
+xG و xA 
+clean sheets 
+
+2.FBref.com
+## easy tables and animations
+xG
+xA
+goals conceded
+clean sheets
+points و rank
+club_name
+stadium_name
+extra : wages
+
+3.Transfermarkt.com
+## i think its the hardest one from them but have market value 
+club_id
+coach_id
+injury_id
+market_value
+popularity  (https://www.transfermarkt.com/beliebtheit/index?typ=verein&kontinent=6&land=&wettbewerb=&Verein%5B0%5D%5Bverein_id%5D=)
+strengths
+stadium info
