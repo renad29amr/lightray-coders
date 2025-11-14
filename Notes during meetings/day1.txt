@@ -46,7 +46,7 @@ yellow_card
 red_card
 no_matches
 
-##club: 
+##club: (https://understat.com/league/EPL)
 club_id
 coach_id
 injury_id 
