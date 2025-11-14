@@ -1,4 +1,4 @@
-##injury :
+##injury (https://www.planetfootball.com/premier-league/2024-25-premier-league-injury-table-man-utd-liverpool-arsenal-chelsea---> web scraping):
 players_id 
 injury_id
 club_id
@@ -15,6 +15,8 @@ postion
 injury_id 
 
 ##player_fact:(Done)
+(https://understat.com/league/EPL/2024 ----> without cards
+https://www.kaggle.com/datasets/hubertsidorowicz/football-players-stats-2024-2025 --------> alll)
 player_id
 no._goals
 no._assests 
@@ -35,7 +37,8 @@ tackles_won
 miss_pass
 
 ## goal_keeper(Done) (https://fbref.com/en/comps/9/2024-2025/2024-2025-Premier-League-Stats#all_stats_squads_keeper
-without yellow / red)
+without yellow / red
+https://www.kaggle.com/datasets/hubertsidorowicz/football-players-stats-2024-2025-----> filteration)
 plyer_id
 gk_id
 club_id
@@ -46,7 +49,9 @@ yellow_card
 red_card
 no_matches
 
-##club: (https://understat.com/league/EPL)
+##club:
+(https://understat.com/league/EPL/2024
+https://www.kaggle.com/datasets/flynn28/2025-premier-league-stats-matches-salaries/data)
 club_id
 coach_id
 injury_id 
@@ -95,7 +100,9 @@ no._of_goals
 
 
 
-## coach:(Done)
+## coach:(Done) (https://www.kaggle.com/datasets/fernandasubekti/premier-league-and-efl-championship-20242025
+
+add salary to table )
 coach_id
 club_id
 salary(it depends)
