@@ -34,7 +34,7 @@ Tackles_total
 tackles_won
 miss_pass
 
-## goal_keeper(Done)
+## goal_keeper(Done) (https://fbref.com/en/comps/9/2024-2025/2024-2025-Premier-League-Stats#all_stats_squads_keeper)
 plyer_id
 gk_id
 club_id
@@ -65,7 +65,7 @@ no_lose
 no_draws
 matches_played???????????
 
-##match:(~)
+##match:(~)(https://www.football-data.co.uk/mmz4281/2526/E0.csv)
 match_id
 match_score
 home_club_id????
