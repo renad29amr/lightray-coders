@@ -50,7 +50,7 @@ red_card
 no_matches
 
 ##club:
-(https://understat.com/league/EPL/2024
+(https://understat.com/league/EPL/2024 ---> webscrapping (stebben)
 https://www.kaggle.com/datasets/flynn28/2025-premier-league-stats-matches-salaries/data)
 club_id
 coach_id
