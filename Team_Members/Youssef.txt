@@ -7,6 +7,7 @@ wins / losses / draws
 goals conceded
 xG و xA 
 clean sheets 
+FTHG ---> Full Time Home Game
 
 2.FBref.com
 ## easy tables and animations
