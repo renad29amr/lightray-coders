@@ -29,3 +29,6 @@ market_value
 popularity  (https://www.transfermarkt.com/beliebtheit/index?typ=verein&kontinent=6&land=&wettbewerb=&Verein%5B0%5D%5Bverein_id%5D=)
 strengths
 stadium info
+*******************************************************************************************************************************
+MANGERS
+cleaning data with python and inserting salary 
