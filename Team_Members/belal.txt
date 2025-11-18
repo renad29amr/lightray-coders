@@ -13,3 +13,20 @@ plz open it and let's discuss.
 https://www.fotmob.com/leagues/47/overview/premier-league
 
 It has a number of cards GK taked 
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+task 2 
+Initially, I put the data into DuckDB and wanted to clean it completely, but SQL encountered some problems. When I looked at what you did, I saw that you used Pandas to clean it, so I did the same.
+
+So ,
+I deleted the columns related to goalkeepers, then replaced the NULLS in the missing data with zeros, and renamed the columns to be compatible with SQL and easier to understand.
+
+After that, I saved it as a CSV file and uploaded it for you named player_fact_clean.
+That's all.
+
+
+
