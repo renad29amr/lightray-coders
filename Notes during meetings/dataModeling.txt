@@ -5,4 +5,9 @@ in GK remove competition and birth_year and Comp_stats_shooting
 
 in Manger salay/million
   Time as manager	---> decimal
+club_data:
+  last5---> add ","
   
+  rename keeper --> GK
+  
+
