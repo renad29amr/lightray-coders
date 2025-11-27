@@ -1,0 +1,44 @@
+data modeliing :
+ data:
+ 	csv's:
+		injuries
+		players
+		matches
+		coach
+		clubs aka teams
+		goalkeepers
+		
+  
+ dim:
+	players
+	goalkeepers 
+	clubs
+ stg:
+1-rename
+2-fix data type
+3-drop duplicates
+4-standard club names
+5-fixing spellings
+6-spliting cols
+7-joining tables
+
+
+
+ keys:
+
+
+
+notes: 
+in player_fact_clean remove competition and birth_year
+ there is missing nationality in player_fact_clean
+in GK remove competition and birth_year and Comp_stats_shooting
+in Manger salay/million
+  Time as manager	---> decimal
+in gk cleaned he got them from the nonlight verison 
+
+  
+
+ fact:
+
+	
+	
