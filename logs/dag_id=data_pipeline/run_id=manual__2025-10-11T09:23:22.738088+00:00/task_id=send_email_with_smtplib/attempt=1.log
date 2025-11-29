@@ -1,0 +1,4 @@
+{"timestamp":"2025-10-11T09:23:31.542836","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-10-11T09:23:31.543450","level":"info","event":"Filling up the DagBag from /home/renad/airflow/dags/ai5.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-11T09:23:33.797293Z","level":"info","event":"✅ Email sent successfully!","chan":"stdout","logger":"task"}
+{"timestamp":"2025-10-11T09:23:33.898733","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}

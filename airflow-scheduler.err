@@ -1,0 +1,34 @@
+[2025-10-09 13:21:50 +0300] [68672] [INFO] Starting gunicorn 23.0.0
+[2025-10-09 13:21:50 +0300] [68672] [INFO] Listening at: http://[::]:8793 (68672)
+[2025-10-09 13:21:50 +0300] [68672] [INFO] Using worker: sync
+[2025-10-09 13:21:50 +0300] [68673] [INFO] Booting worker with pid: 68673
+[2025-10-09 13:21:51 +0300] [68674] [INFO] Booting worker with pid: 68674
+/home/renad/venvs/airflow_3.0.6/lib/python3.12/site-packages/airflow/sdk/execution_time/supervisor.py:476 DeprecationWarning: This process (pid=68723) is multi-threaded, use of fork() may lead to deadlocks in the child.
+/home/renad/venvs/airflow_3.0.6/lib/python3.12/site-packages/airflow/sdk/execution_time/supervisor.py:476 DeprecationWarning: This process (pid=68855) is multi-threaded, use of fork() may lead to deadlocks in the child.
+/home/renad/venvs/airflow_3.0.6/lib/python3.12/site-packages/airflow/sdk/execution_time/supervisor.py:476 DeprecationWarning: This process (pid=69235) is multi-threaded, use of fork() may lead to deadlocks in the child.
+/home/renad/venvs/airflow_3.0.6/lib/python3.12/site-packages/airflow/sdk/execution_time/supervisor.py:476 DeprecationWarning: This process (pid=69348) is multi-threaded, use of fork() may lead to deadlocks in the child.
+/home/renad/venvs/airflow_3.0.6/lib/python3.12/site-packages/airflow/sdk/execution_time/supervisor.py:476 DeprecationWarning: This process (pid=70531) is multi-threaded, use of fork() may lead to deadlocks in the child.
+/home/renad/venvs/airflow_3.0.6/lib/python3.12/site-packages/airflow/sdk/execution_time/supervisor.py:476 DeprecationWarning: This process (pid=72232) is multi-threaded, use of fork() may lead to deadlocks in the child.
+/home/renad/venvs/airflow_3.0.6/lib/python3.12/site-packages/airflow/sdk/execution_time/supervisor.py:476 DeprecationWarning: This process (pid=72551) is multi-threaded, use of fork() may lead to deadlocks in the child.
+/home/renad/venvs/airflow_3.0.6/lib/python3.12/site-packages/airflow/sdk/execution_time/supervisor.py:476 DeprecationWarning: This process (pid=73825) is multi-threaded, use of fork() may lead to deadlocks in the child.
+/home/renad/venvs/airflow_3.0.6/lib/python3.12/site-packages/airflow/models/taskinstance.py:2067 DeprecationWarning: The `airflow.models.abstractoperator.NotMapped` class is deprecated. Please use `'airflow.sdk.definitions._internal.abstractoperator.NotMapped'`.
+/home/renad/venvs/airflow_3.0.6/lib/python3.12/site-packages/airflow/sdk/execution_time/supervisor.py:476 DeprecationWarning: This process (pid=73869) is multi-threaded, use of fork() may lead to deadlocks in the child.
+/home/renad/venvs/airflow_3.0.6/lib/python3.12/site-packages/airflow/sdk/execution_time/supervisor.py:476 DeprecationWarning: This process (pid=76169) is multi-threaded, use of fork() may lead to deadlocks in the child.
+/home/renad/venvs/airflow_3.0.6/lib/python3.12/site-packages/airflow/sdk/execution_time/supervisor.py:476 DeprecationWarning: This process (pid=76372) is multi-threaded, use of fork() may lead to deadlocks in the child.
+/home/renad/venvs/airflow_3.0.6/lib/python3.12/site-packages/airflow/sdk/execution_time/supervisor.py:476 DeprecationWarning: This process (pid=77845) is multi-threaded, use of fork() may lead to deadlocks in the child.
+/home/renad/venvs/airflow_3.0.6/lib/python3.12/site-packages/airflow/sdk/execution_time/supervisor.py:476 DeprecationWarning: This process (pid=78495) is multi-threaded, use of fork() may lead to deadlocks in the child.
+/home/renad/venvs/airflow_3.0.6/lib/python3.12/site-packages/airflow/sdk/execution_time/supervisor.py:476 DeprecationWarning: This process (pid=80010) is multi-threaded, use of fork() may lead to deadlocks in the child.
+/home/renad/venvs/airflow_3.0.6/lib/python3.12/site-packages/airflow/sdk/execution_time/supervisor.py:476 DeprecationWarning: This process (pid=80072) is multi-threaded, use of fork() may lead to deadlocks in the child.
+/home/renad/venvs/airflow_3.0.6/lib/python3.12/site-packages/airflow/sdk/execution_time/supervisor.py:476 DeprecationWarning: This process (pid=80223) is multi-threaded, use of fork() may lead to deadlocks in the child.
+/home/renad/venvs/airflow_3.0.6/lib/python3.12/site-packages/airflow/sdk/execution_time/supervisor.py:476 DeprecationWarning: This process (pid=82202) is multi-threaded, use of fork() may lead to deadlocks in the child.
+/home/renad/venvs/airflow_3.0.6/lib/python3.12/site-packages/airflow/sdk/execution_time/supervisor.py:476 DeprecationWarning: This process (pid=83177) is multi-threaded, use of fork() may lead to deadlocks in the child.
+/home/renad/venvs/airflow_3.0.6/lib/python3.12/site-packages/airflow/sdk/execution_time/supervisor.py:476 DeprecationWarning: This process (pid=84995) is multi-threaded, use of fork() may lead to deadlocks in the child.
+/home/renad/venvs/airflow_3.0.6/lib/python3.12/site-packages/airflow/sdk/execution_time/supervisor.py:476 DeprecationWarning: This process (pid=110565) is multi-threaded, use of fork() may lead to deadlocks in the child.
+/home/renad/venvs/airflow_3.0.6/lib/python3.12/site-packages/airflow/sdk/execution_time/supervisor.py:476 DeprecationWarning: This process (pid=112116) is multi-threaded, use of fork() may lead to deadlocks in the child.
+/home/renad/venvs/airflow_3.0.6/lib/python3.12/site-packages/airflow/sdk/execution_time/supervisor.py:476 DeprecationWarning: This process (pid=113616) is multi-threaded, use of fork() may lead to deadlocks in the child.
+/home/renad/venvs/airflow_3.0.6/lib/python3.12/site-packages/airflow/sdk/execution_time/supervisor.py:476 DeprecationWarning: This process (pid=122242) is multi-threaded, use of fork() may lead to deadlocks in the child.
+/home/renad/venvs/airflow_3.0.6/lib/python3.12/site-packages/airflow/sdk/execution_time/supervisor.py:476 DeprecationWarning: This process (pid=124136) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2025-10-09 22:04:41 +0300] [68672] [INFO] Handling signal: term
+[2025-10-09 22:04:41 +0300] [68673] [INFO] Worker exiting (pid: 68673)
+[2025-10-09 22:04:41 +0300] [68674] [INFO] Worker exiting (pid: 68674)
+[2025-10-09 22:04:42 +0300] [68672] [INFO] Shutting down: Master
