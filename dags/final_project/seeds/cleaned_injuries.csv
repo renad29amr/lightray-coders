@@ -1,0 +1,101 @@
+injury_id,Club,Player,InjuryType,ReturnDate
+1,Arsenal,Ben White,Knee,March 2025
+2,Arsenal,Declan Rice,Other,December 2024
+3,Arsenal,Riccardo Calafiori,Knee,December 2024
+4,Arsenal,Oleksandr Zinchenko,Other,December 2024
+5,Arsenal,Takehiro Tomiyasu,Knee,
+6,Aston Villa,Jacob Ramsey,Thigh,January 2025
+7,Aston Villa,Tyrone Mings,Illness,December 2024
+8,Aston Villa,Leon Bailey,Thigh,December 2024
+9,Bournemouth,Alex Scott,Knee,December 2024
+10,Bournemouth,Luis Sinisterra,Thigh,December 2024
+11,Bournemouth,Marcus Tavernier,Thigh,
+12,Bournemouth,Julian Araujo,Thigh,
+13,Bournemouth,Marcos Senesi,Thigh,
+14,Brentford,Josh Dasilva,Knee,February 2025
+15,Brentford,Sepp van der Berg,Groin,December 2024
+16,Brentford,Mathias Jensen,Thigh,December 2024
+17,Brentford,Aaron Hickey,Thigh,
+18,Brentford,Rico Henry,Knee,
+19,Brentford,Ethan Pinnock,Thigh,
+20,Brentford,Igor Thiago,Other,
+21,Brentford,Gustavo Nunes,Lower Back,
+22,Brighton,James Milner,Thigh,January 2025
+23,Brighton,Danny Welbeck,Ankle,December 2024
+24,Brighton,Ferdi Kadioglu,Ankle,December 2024
+25,Brighton,Jack Hinshelwood,Knee,December 2024
+26,Brighton,Solly March,Other,December 2024
+27,Brighton,Matt O’Reilly,Knock,December 2024
+28,Brighton,Adam Webster,Thigh,December 2024
+29,Brighton,Joel Veltman,Other,December 2024
+30,Chelsea,Reece James,Thigh,January 2025
+31,Chelsea,Wesley Fofana,Thigh,January 2025
+32,Chelsea,Romeo Lavia,Other,December 2024
+33,Chelsea,Benoit Badiashile,Other,December 2024
+34,Chelsea,Omari Kellyman,Thigh,
+35,Crystal Palace,Matheus Franca,Groin,January 2025
+36,Crystal Palace,Chadi Riad,Other,
+37,Crystal Palace,Rob Holding,Other,
+38,Everton,Timothy Iroegbunam,Ankle,January 2025
+39,Everton,James Garner,Lower Back,January 2025
+40,Everton,Dwight McNeil,Knee,
+41,Everton,Youssef Chermiti,Other,
+42,Everton,Dele Alli,Groin,
+43,Fulham,Reiss Nelson,Thigh,February 2025
+44,Fulham,Harrison Reed,Knee,January 2025
+45,Fulham,Kenny Tete,Knee,December 2024
+46,Fulham,Joachim Andersen,Calf,December 2024
+47,Ipswich Town,Chiedozie Ogbene,Calf,June 2025
+48,Ipswich Town,George Hirst,Knee,January 2025
+49,Ipswich Town,Janoi Donacien,Ankle,
+50,Ipswich Town,Sammie Szmodics,Illness,
+51,Ipswich Town,Axel Tuanzebe,Thigh,
+52,Leicester City,Issahaku Fatawu,Knee,August 2025
+53,Leicester City,Wilfried Ndidi,Thigh,January 2025
+54,Leicester City,Harry Winks,Groin,December 2024
+55,Leicester City,Odsonne Edouard,Other,December 2024
+56,Leicester City,Mads Hermansen,Groin,
+57,Leicester City,Ricardo Pereira,Thigh,
+58,Leicester City,Jakub Stolarczyk,Ankle,November 2024
+59,Liverpool,Conor Bradley,Thigh,January 2025
+60,Liverpool,Ibrahima Konate,Knee,January 2025
+61,Manchester City,Rodri,Knee,June 2025
+62,Manchester City,Oscar Bobb,Other,January 2025
+63,Manchester City,Nathan Ake,Thigh,January 2025
+64,Manchester City,Manuel Akanji,Other,December 2024
+65,Manchester United,Mason Mount,Other,
+66,Manchester United,Noussair Mazraoui,Other,
+67,Manchester United,Victor Lindelof,Other,
+68,Manchester United,Luke Shaw,Calf,
+69,Newcastle United,Callum Wilson,Thigh,February 2025
+70,Newcastle United,Jamaal Lascelles,Knee,February 2025
+71,Newcastle United,Nick Pope,Knee,January 2025
+72,Newcastle United,Emil Krafth,Shoulder,January 2025
+73,Newcastle United,Joelinton,Head,December 2024
+74,Newcastle United,Sven Botman,Knee,
+75,Nottingham Forest,Ibrahim Sangare,Thigh,February 2025
+76,Nottingham Forest,Danilo,Ankle,January 2025
+77,Nottingham Forest,Ryan Yates,Ankle,December 2024
+78,Nottingham Forest,Murillo,Other,December 2024
+79,Nottingham Forest,Alex Moreno,Other,December 2024
+80,Southampton,Gavin Bazunu,Calf,February 2025
+81,Southampton,Ross Stewart,Calf,January 2025
+82,Southampton,Kyle Walker-Peters,Other,December 2024
+83,Southampton,Aaron Ramsdale,Wrist,December 2024
+84,Southampton,Will Smallbone,Thigh,November 2024
+85,Tottenham Hotspur,Guglielmo Vicario,Ankle,March 2025
+86,Tottenham Hotspur,Richarlison,Thigh,January 2025
+87,Tottenham Hotspur,Ben Davies,Thigh,December 2024
+88,Tottenham Hotspur,Destiny Udogie,Thigh,December 2024
+89,Tottenham Hotspur,Timo Werner,Illness,December 2024
+90,Tottenham Hotspur,Wilson Odobert,Thigh,
+91,Tottenham Hotspur,Cristian Romero,Thigh,
+92,Tottenham Hotspur,Micky van de Ven,Thigh,
+93,West Ham United,Jean-Clair Todibo,Groin,
+94,West Ham United,Michail Antonio,Other,
+95,Wolverhampton Wanderers,Yerson Mosquera,Knee,June 2025
+96,Wolverhampton Wanderers,Enso Gonzalez,Knee,June 2025
+97,Wolverhampton Wanderers,Sasa Kalajdzic,Knee,January 2025
+98,Wolverhampton Wanderers,Boubacar Traore,Knee,December 2024
+99,Wolverhampton Wanderers,Jose Sa,Shoulder,December 2024
+100,Wolverhampton Wanderers,Pablo Sarabia,Calf,December 2024
